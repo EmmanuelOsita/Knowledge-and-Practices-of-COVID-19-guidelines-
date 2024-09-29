@@ -23,6 +23,11 @@
 
 The project was to assess the knowledge and practices of COVID-19 guidelines among persons with hearing impairment in the villages in Pankshin, Pleateau State, Nigeria. By studying that, it will identify gaps in awareness, ensure effective public health interventins and promote inclusive measures to safegaurd this vulnerable population in case of other pandemics and epidemics that may arise in the futureThe study will be used to guide health practitioners on the health promotion and disease prevention programs in times of the COVID-19 or other pandemics and epidemics that may arise in the future.
 
+![image 1](https://github.com/user-attachments/assets/64807c43-209a-4999-b3fc-3b9387c176e5)
+
+![image 2](https://github.com/user-attachments/assets/6e2c3238-da7e-4205-b856-b725cfa20a03)
+
+
 ## Source of Data
 
 The primary source of the data used for this project was surveys and interviews conducted with persons with hearing impairment.
