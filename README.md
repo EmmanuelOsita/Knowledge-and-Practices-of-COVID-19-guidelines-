@@ -3,6 +3,16 @@
 ## Table of Content
 -[Project oveview](#project-overview)
 
+-[Source of Data](#source-of-data)
+
+-[Tools](#tools)
+
+-[Data Cleaning and preparation](#Data-clearning-and-preparation)
+
+-[Exploratory Data](#exploratory-data)
+
+-[Data Analysis](#data-analysis)
+
 -[Summary of findings](summary-of-findings)
 
 -[Recommendations](Recommendations)
