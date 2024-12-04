@@ -49,12 +49,6 @@ The primary source of the data used for this project was surveys and interviews 
 To what extent are persons with hearing impairment aware of the COVID-19 guidlines
 To what extent do persons with hearing impairment practice COVID-19 guidlines
 
-## Data Analysis
-'Excel
-= RANGEBETWEEN (1,4). =AVERAGE (A2:A100). = STDEV.P (A2:100)
-'SPSS
-/VARIABLES = AGE KNOWLEDGE_PRACTICES. /PRINT = TWOTAIL NOSIG/. GRAPH/BAR (GROUPED)= COUNT
-
 ## Summary of Findings
 
 1. Persons with hearing impairment showed limited awareness of COVID-19 guidlines. Communication barriers such as inadequate sign language intepreters and lack of accessible information contributed to this gap.
